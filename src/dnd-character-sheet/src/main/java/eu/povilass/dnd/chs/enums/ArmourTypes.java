@@ -1,6 +1,6 @@
 package eu.povilass.dnd.chs.enums;
 
-public enum ArmourType {
+public enum ArmourTypes {
 	NO,
 	LIGHT,
 	MEDIUM,

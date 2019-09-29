@@ -1,6 +1,6 @@
 package eu.povilass.dnd.chs.enums;
 
-public enum DamageType {
+public enum DamageTypes {
 	PIERCING,
 	BLUDGEONING,
 	SLASHING,
